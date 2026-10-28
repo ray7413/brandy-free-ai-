@@ -2,6 +2,8 @@
 
 *Your free AI... well, sort of. ❤️‍🩹*
 
+![Brandy]([https://your-public-image-url.com/brandy.png](https://i.ibb.co.com/XxV6ftg8/Screenshot-2026-10-28-181321.png))
+
 Meet Brandy! He's a little service that listens to your requests, does what you ask, and sends a response back. You send something in, Brandy processes it, and hopefully, he sends something useful back.
 
 No complicated stuff. Just you, your requests, and Brandy.
@@ -180,36 +182,6 @@ print("Brandy remembers:", response.json())
 
 Brandy's replies are JSON, so your program can read them, process them, and do whatever it needs to do next.
 
-## 🧠 Is Brandy actually an AI?
-
-Not yet! 😭
-
-Right now, Brandy is more like a tiny personal data service. He can accept requests, store information, retrieve it, and return responses.
-
-But that's just the beginning.
-
-Maybe one day, we can teach Brandy to:
-
-- 🤖 Connect to an actual AI model.
-- 🧠 Remember conversations and useful facts.
-- 🔍 Search through old information.
-- 💭 Retrieve relevant memories when answering questions.
-- 🌐 Accept requests from other applications and devices.
-
-Imagine asking an AI a question, having it ask Brandy for relevant memories, and then using those memories to create a better answer.
-
-That's the dream.
-
-## 🔒 A tiny reminder
-
-Brandy might be friendly, but please don't give his secret key away to everyone.
-
-- Keep your API key private.
-- Use HTTPS when exposing Brandy over the internet.
-- Don't expose the development server directly to the public internet.
-- Only give clients the access they actually need.
-
-For now, Brandy is meant to run locally on your computer.
 
 ## ❤️‍🩹 Final words
 
