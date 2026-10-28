@@ -2,7 +2,7 @@
 
 *Your free AI... well, sort of. ❤️‍🩹*
 
-![Brandy]([https://your-public-image-url.com/brandy.png](https://i.ibb.co.com/XxV6ftg8/Screenshot-2026-10-28-181321.png))
+![Brandy](https://i.ibb.co.com/XxV6ftg8/Screenshot-2026-10-28-181321.png)
 
 Meet Brandy! He's a little service that listens to your requests, does what you ask, and sends a response back. You send something in, Brandy processes it, and hopefully, he sends something useful back.
 
