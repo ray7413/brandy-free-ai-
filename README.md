@@ -1,4 +1,4 @@
-# brandy(free ai❤️‍🩹)
+# brandy(free ai❤️‍🩹)[WORK IN PROGRESS, NO FINISHED PRODUCT YET!!!]
 
 *Your free AI... well, sort of. ❤️‍🩹*
 
